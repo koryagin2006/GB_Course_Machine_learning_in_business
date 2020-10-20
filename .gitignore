@@ -1,3 +1,5 @@
-
 .ipynb_checkpoints/
 .idea/
+Data/articles.csv
+Data/users_articles.csv
+Data/users_churn.csv
