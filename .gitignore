@@ -4,3 +4,6 @@ Data/articles.csv
 Data/users_articles.csv
 Data/users_churn.csv
 *.csv
+catboost_info/catboost_training.json
+catboost_info/learn/events.out.tfevents
+catboost_info/time_left.tsv
